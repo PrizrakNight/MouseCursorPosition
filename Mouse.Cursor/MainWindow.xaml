@@ -10,7 +10,9 @@
         Unloaded="Window_Unloaded"
         WindowStartupLocation="CenterScreen"
         Topmost="True"
-        Title="MainWindow" Height="231" Width="411">
+        Title="MouseCursorPosition"
+        Height="231"
+        Width="411">
     <Grid>
         <Label x:Name="MousePosLabel"
                Content="X: 0, Y: 0"
